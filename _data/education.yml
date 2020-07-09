@@ -1,8 +1,14 @@
 # Degree
 
-- degree: .Net Developer  
-  uni:QWERTY
-  year: Jule, 2020 &mdash; December, 2015
+- degree: Mechanical engineer 
+  uni:Belarusian State University of Transport
+  year: Jule, 2005 &mdash; Jule, 2010
   # awards:
-  # summary: merge-conflicts
+  # summary:
+  
+  - degree: Software engineer
+  uni:Belarusian State University of Informatics and Radioelectronics
+  year: September, 2017 &mdash; Jule, 2019
+  # awards:
+  # summary:
 
